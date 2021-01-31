@@ -3,4 +3,4 @@ languageCode = "zh-tw"
 title = "Chivincent's Blog"
 theme = "clarity"
 hasCJKLanguage = true
-ga_analytics = "G-RQ18NWKWDF"
+customJS = ["js/gtag.js", "js/analytics.js"]
