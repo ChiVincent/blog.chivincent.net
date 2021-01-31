@@ -1,5 +1,5 @@
 baseURL = "https://blog.chivincent.net/"
 languageCode = "zh-tw"
 title = "Chivincent's Blog"
-theme = "tale"
+theme = "clarity"
 hasCJKLanguage = true
